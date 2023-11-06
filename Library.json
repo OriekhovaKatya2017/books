@@ -2,6 +2,7 @@
    "books": [
        {
            "title": "Life",
+           "image": "elllo.png",
            "chapters": [
                {
                    "title": "Life in India",
